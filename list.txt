@@ -1,0 +1,5 @@
+信用点 2 0 0 p.png
+神明精髓 3 0 0 q.png
+青辉石 1 0 0 s.png
+伏尼契手稿 3 0 0 draft.png
+体力 1 0 0 ap.png
